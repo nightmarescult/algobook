@@ -1,0 +1,8 @@
+[book]
+authors = ["lynn"]
+language = "ru"
+src = "src"
+title = "Algobook"
+
+[output.html]
+mathjax-support = true
