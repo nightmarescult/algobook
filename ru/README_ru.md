@@ -51,7 +51,7 @@ mdbook build
 ```
 
 
-# License
+# Лицензия
 Данный проект лицензирован под лицензией [GNU GPLv3](LICENSE) .
 
 
